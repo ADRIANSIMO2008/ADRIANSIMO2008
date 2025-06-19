@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 👋 I’m Adrian
 - 👶 Born in 2008
-- 💻 I've been on my computer journey since Winter 2022 (when i got my 1st notebook)
+- 💻 I've been on my computer journey since Winter 2022 (when i got my 1st laptop)
 - 👀 I’m interested in Programming and Computer Science
 - 📚 Studying **Informačné a Sieťové Technológie (IST)** in Slovakia 
 - 📫 You can reach me via my e-mail <adrian@adriansimo.space>
